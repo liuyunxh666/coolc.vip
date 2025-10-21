@@ -1,4 +1,4 @@
-name = "LinkWorks"
+name = "linkworks"
 compatibility_date = "2025-10-22"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
@@ -6,7 +6,7 @@ pages_build_output_dir = ".vercel/output/static"
 [env.production.vars]
 GITHUB_CLIENT_ID = "Ov23liTAQf6yui2ezHCE"
 GITHUB_OWNER = "coolc.vip"
-GITHUB_REPO = "LinkWorks"
+GITHUB_REPO = "linkworks"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://coolc.vip/api/auth"
 NEXT_PUBLIC_API_URL="https://coolc.vip"
